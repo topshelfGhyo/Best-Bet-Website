@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-WORK IN PROGRESS:
+WORK IN PROGRESS DUE to recent API malfunction will be back working over weekned**:
 -Footer links are not made 
 -BETTER API CURRENT NEXT.JS VERSION UNSTABLE
 IMPROVE EVERYDAY! *Front end Developement *I hope you gain value from my progress so far !
