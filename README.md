@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 WORK IN PROGRESS:
 -Footer links are not made 
 -BETTER API CURRENT NEXT.JS VERSION UNSTABLE
--Still learning Front end Developement *I hope you gain value from my progress so far !
+IMPROVE EVERYDAY! *Front end Developement *I hope you gain value from my progress so far !
 
 ## Getting Started
 
